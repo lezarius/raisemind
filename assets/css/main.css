@@ -1577,7 +1577,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #9a9a9a;
+		color: #000;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -1850,7 +1850,7 @@
 		}
 
 	header p {
-		color: #bbb;
+		color: #000;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -3006,19 +3006,19 @@
 	}
 
 	#footer .copyright {
-		color: #bbb;
+		color: #000;
 		font-size: 0.8em;
 		margin: 0 0 2em 0;
 		padding: 0;
 	}
 
 		#footer .copyright a {
-			color: #bbb;
+			color: #000;
 			text-decoration: none;
 		}
 
 			#footer .copyright a:hover {
-				color: #bbb;
+				color: #000;
 				text-decoration: underline;
 			}
 
