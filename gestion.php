@@ -13,16 +13,7 @@
 			<header id="header">
 				<div class="inner">
 					<a href="http://dev.infra-rm.xyz/" class="logo">RaiseMind</a>
-					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="#">Notre politique</a>
-						<a href="#">Gestion de projets</a>
-						<a href="#">Nos services</a>
-						<a href="#">Notre équipe</a>
-						<a href="#">Blog</a>
-						<a href="#">Contact</a>
-					</nav>
-					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				<?php include 'nav.php'; ?>
 				</div>
 			</header>
 

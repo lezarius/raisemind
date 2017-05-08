@@ -12,20 +12,7 @@
 			<header id="header">
 				<div class="inner">
 					<a href="http://dev.infra-rm.xyz/" class="logo"><img src="images/logo100.png" alt=""></img></a>
-					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="politique.html">Notre politique</a>
-						<a href="#">Gestion de projets</a>
-						<a href="#">Nos services</a>
-						<a href="#">Notre équipe</a>
-						<a href="#">Blog</a>
-						<a href="#">Contact</a>
-					<!--
-					<a href="generic.html">Generic</a>
-						<a href="elements.html">Elements</a>
-					-->
-					</nav>
-					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				<?php include 'nav.php'; ?>
 				</div>
 			</header>
 
@@ -126,26 +113,6 @@
 					</div>
 				</div>
 			</section>
-
-		<!-- Footer -->
-			<footer id="footer">
-				<div class="inner">
-					<div class="flex">
-						<div class="copyright">
-							&copy; RaiseMind. Design: RaiseMind. Images: RaiseMind. Logo: <a href="https://twitter.com/SoniopArt">Soniop</a>.
-						</div>
-						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						</ul>
-					</div>
-				</div>
-			</footer>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
+		<?php include "footer.php";?>
 	</body>
 </html>
