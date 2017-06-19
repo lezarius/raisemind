@@ -30,7 +30,7 @@ Aurevoire les projet de dev à plusieur millier d'euro. </p>
 					<p>Ici vous ne payer pas de license excésife.
 Uniquement les compétence utiliser sur le temps de travaille.</p>
 <p>Ici vos donné sont en lieux sur.
-Chiffré est notre mot d'ordre. La sécurité n'est pas qu'une chosse obscure comme nous laise pensez Macron.
+Chiffré est notre mot d'ordre. La sécurité n'est pas qu'une chosse obscure comme nous laise pensez certain de nos politique.
 Chez nous elle est réalité. Votre réalité.</p>
 <p>Nous voulons votre bonheur, et votre sécurité pour cela tout nos outils sont open source/ sous license libre..
 Nous même contribuon à la vie et la bonne santé de ses même projets. </p>
