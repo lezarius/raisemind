@@ -69,6 +69,9 @@
               </table>
             </div>
 <!-- Table for pricing design service -->
+<h3>Design</h3>
+
+<h4>Nos différente offre pour vos design</h4>
             <div class="table-wrapper">
               <table>
                 <thead>
