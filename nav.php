@@ -2,8 +2,8 @@
   <a href="index.php">Home</a>
   <a href="politique.php">Notre politique</a>
   <a href="gestion.php">Gestion de projets</a>
-  <a href="#">Nos services</a>
-  <a href="#">Contact</a>
+  <a href="service.php">Nos services</a>
+  <a href="contact.php">Contact</a>
 <!--
 <a href="generic.html">Generic</a>
   <a href="elements.html">Elements</a>
