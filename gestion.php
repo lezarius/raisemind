@@ -28,10 +28,12 @@
 					Mais aussi, un échange dynamique, un possibilité de modifier le site à tout moment via un simple mail.<br><br>
 					Un cahier des charge qui se veux dans notre temps, on parlera ensemble de repsonsive, de design, mais aussi
 					de communication ou encore d'éthique.<br><br>
-
 					De nos jours ou les micro entreprise et les site web pousse comme du lière sur l'arbre des internet.<br>
 					Nous vous proposon d'être la fleur parmis tout cela. <br>
-					Avec des méthode de travaille novatrice et une envie de donner les meilleur à chaque création.
+					Avec des méthode de travaille novatrice et une envie de donner les meilleur à chaque création.<br><br>
+					Voila comme notre équipe s'occupe de vos projet avec amour de A à Z.
+
+
 
 
 
