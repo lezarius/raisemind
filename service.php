@@ -25,9 +25,9 @@
 						<p>Voici la liste évolutive de nos service.</p>
 					</header>
           <!-- Table -->
-            <h3>Table</h3>
+            <h3>Création web</h3>
 
-            <h4>Default</h4>
+            <h4>Nos différente offre pour vos site web</h4>
             <div class="table-wrapper">
               <table>
                 <thead>
@@ -49,9 +49,9 @@
                     <td>360</td>
                   </tr>
                   <tr>
-                    <td>e-commerce</td>
-                    <td> Une envie d'un e-commerce ?</td>
-                    <td>Devis*</td>
+                    <td>Blog</td>
+                    <td>Un simple blog et une page contact, pour partagez vos plus beaux billet.</td>
+                    <td>120</td>
                   </tr>
                   <tr>
                     <td>e-commerce</td>
