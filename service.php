@@ -28,6 +28,7 @@
             <h3>Création web</h3>
 
             <h4>Nos différente offre pour vos site web</h4>
+            <!-- Table for pricing web servicing -->
             <div class="table-wrapper">
               <table>
                 <thead>
@@ -67,7 +68,45 @@
                 </tfoot>
               </table>
             </div>
-
+<!-- Table for pricing design service -->
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Design</th>
+                    <th>Tout se qui tourne autours de la création graphique pour votre entreprise !</th>
+                    <th>Prix</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>Template</th>
+                    <th>Une template bootstrap sur messur pour votre site vitrine</th>
+                    <th>190</th>
+                  </tr>
+                  <tr>
+                    <td>Logo</td>
+                    <td>Un logo pour vos site web.</td>
+                    <td>90</td>
+                  </tr>
+                  <tr>
+                    <td>Template mail</td>
+                    <td>Nous integrons votre logo et d'autre info importante pour vous dans un design unique pour vos mail !</td>
+                    <td>110</td>
+                  </tr>
+                  <tr>
+                    <td>Papeterie</td>
+                    <td>Carte de visite et entête de lettre. (À voir en devis pour l'impression de ses produit)</td>
+                    <td>80</td>
+                  </tr>
+                  <tr>
+                    <td>Flyers</td>
+                    <td> Flyers sur messure bon pour toute vos campagne de pub</td>
+                    <td>150</td>
+                  </tr>
+                </tbody>
+                </table>
+            </div>
 				</div>
 			</section>
 <?php include "footer.php";?>
