@@ -24,8 +24,18 @@
 						<h2>Gestion de projet</h2>
 						<p>Une envie de comprendre le procesus d'échange entre nous et vous ?</p>
 					</header>
-					<p>Il est simple, nous vous proposon une démo dynamique qui suit nos étape de production de votre site.</p>
-					<p>Mais aussi</p>
+					<p>Il est simple, nous vous proposon une démo dynamique qui suit nos étape de production de votre site.<br>
+					Mais aussi, un échange dynamique, un possibilité de modifier le site à tout moment via un simple mail.<br><br>
+					Un cahier des charge qui se veux dans notre temps, on parlera ensemble de repsonsive, de design, mais aussi
+					de communication ou encore d'éthique.<br><br>
+
+					De nos jours ou les micro entreprise et les site web pousse comme du lière sur l'arbre des internet.<br>
+					Nous vous proposon d'être la fleur parmis tout cela. <br>
+					Avec des méthode de travaille novatrice et une envie de donner les meilleur à chaque création.
+
+
+
+					</p>
 				</div>
 			</section>
 <?php include "footer.php";?>

@@ -25,17 +25,17 @@
 						<p>Une politique libriste et ouvert sur le monde, pour vous !</p>
 					</header>
 					<p>
-Notre politique se veux simple.<br><br>
-Des projets, des service et des application à taille et prix humain.<br>
-Aurevoire les projet de dev à plusieur millier d'euro.<br>
-Ici vous ne payer pas de license excésife.<br>
-Uniquement les compétence utiliser sur le temps de travaille.<br><br>
-Ici vos donné sont en lieux sur.<br>
-Chiffré est notre mot d'ordre. La sécurité n'est pas qu'une chosse obscure comme nous laise pensez certain de nos politique.
+Notre politique se veut simple.<br><br>
+Des projets, des services et des applications à taille et prix humains.<br>
+Au revoir les projets de dev à plusieurs milliers d'euro.<br>
+Ici vous ne payer pas de license excessive.<br>
+Uniquement les compétences utilisées sur le temps de travail.<br><br>
+Ici vos données sont en lieu sûr.<br>
+Chiffrer est notre mot d'ordre. La sécurité n'est pas qu'une chose obscure comme nous laisse penser certains de nos politiques.
 Chez nous elle est réalité.<br> Votre réalité.<br><br>
-Nous voulons votre bonheur, et votre sécurité pour cela tout nos outils sont open source/ sous license libre.<br>
-Nous même contribuon à la vie et la bonne santé de ses même projets.<br>
-Nous vous accompagnion de bout en bout dans votre projet.<br><br>
+Nous voulons votre bonheur, et votre sécurité. Pour cela tous nos outils sont open source/ sous license libre.<br>
+Nous-même contribuons à la vie et la bonne santé de ses mêmes projets.<br>
+Nous vous accompagnions de bout en bout dans votre projet.<br><br>
 Avec énormément de data love.</p>
 
 				</div>
