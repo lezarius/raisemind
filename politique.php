@@ -22,20 +22,20 @@
 				<div class="inner">
 					<header class="align-center">
 						<h2>Notre politique</h2>
-						<p>Une politique libriste et ouvert sur le monde, pour vous !</p>
+						<p>Une politique libriste et ouverte sur le monde, pour vous !</p>
 					</header>
 					<p>
 Notre politique se veut simple.<br><br>
 Des projets, des services et des applications à taille et prix humains.<br>
-Au revoir les projets de dev à plusieurs milliers d'euro.<br>
-Ici vous ne payer pas de license excessive.<br>
+Au revoir les projets de dev à plusieurs milliers d'euros.<br>
+Ici vous ne payez pas de licence excessive.<br>
 Uniquement les compétences utilisées sur le temps de travail.<br><br>
 Ici vos données sont en lieu sûr.<br>
-Chiffrer est notre mot d'ordre. La sécurité n'est pas qu'une chose obscure comme nous laisse penser certains de nos politiques.
+Chiffrer est notre mot d'ordre. La sécurité n'est pas qu'une chose obscure comme nous laissent penser certains de nos politiques.
 Chez nous elle est réalité.<br> Votre réalité.<br><br>
-Nous voulons votre bonheur, et votre sécurité. Pour cela tous nos outils sont open source/ sous license libre.<br>
-Nous-même contribuons à la vie et la bonne santé de ses mêmes projets.<br>
-Nous vous accompagnions de bout en bout dans votre projet.<br><br>
+Nous voulons votre bonheur, et votre sécurité. Pour cela tous nos outils sont open source/ sous licence libre.<br>
+Nous-mêmes contribuons à la vie et la bonne santé de ces mêmes projets.<br>
+Nous vous accompagnons de bout en bout dans votre projet.<br><br>
 Avec énormément de data love.</p>
 
 				</div>
