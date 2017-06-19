@@ -1,7 +1,7 @@
 <nav id="nav">
   <a href="index.php">Home</a>
   <a href="politique.php">Notre politique</a>
-  <a href="#">Gestion de projets</a>
+  <a href="gestion.php">Gestion de projets</a>
   <a href="#">Nos services</a>
   <a href="#">Contact</a>
 <!--
