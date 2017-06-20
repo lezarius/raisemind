@@ -32,7 +32,7 @@
 							</header>
 							<p>Nottre politique libriste, se veux coller le plus possible au attente d'un web 3.0 ouvert sur le monde...</p>
 							<footer>
-								<a href="#" class="button special">More</a>
+								<a href="politique.php" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
@@ -41,7 +41,7 @@
 							</header>
 							<p>RaiseMind se veux être la pour vous, non pour votre argent. Nous serons la de bout en bout pour votre projet !</p>
 							<footer>
-								<a href="#" class="button special">More</a>
+								<a href="gestion.php" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
@@ -50,34 +50,12 @@
 							</header>
 							<p>Nous metons en place tout une suite d'outils pour facillit votre activité, et votre communication sur internet !</p>
 							<footer>
-								<a href="#" class="button special">More</a>
+								<a href="service.php" class="button special">More</a>
 							</footer>
 						</article>
 					</div>
 				</div>
 			</section>
-
-		<!-- Two -->
-			<section id="two" class="wrapper style1 special">
-				<div class="inner">
-					<header>
-						<h2>Notre équipe</h2>
-						<p>Notre petite équipe en image.</p>
-					</header>
-					<div class="flex flex-4">
-					<div class="box person">
-							<div class="image round">
-								<img src="images/pic03.jpg" alt="Person 1" />
-							</div>
-							<h3><a href="http://p.lezarius.tech/">Ronce</a></h3>
-							<p>Admin sys, Gestion d'équipe, fait un peux tout.</p>
-						</div>
-
-						</div>
-					</div>
-				</div>
-			</section>
-
 		<!-- Three -->
 			<section id="three" class="wrapper special">
 				<div class="inner">

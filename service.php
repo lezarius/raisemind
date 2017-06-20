@@ -83,9 +83,9 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <th>Template</th>
-                    <th>Une template bootstrap sur messur pour votre site vitrine</th>
-                    <th>190</th>
+                    <td>Template</td>
+                    <td>Une template bootstrap sur messur pour votre site vitrine</td>
+                    <td>190</td>
                   </tr>
                   <tr>
                     <td>Logo</td>
