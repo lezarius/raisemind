@@ -19,7 +19,7 @@
 		<!-- Banner -->
 			<section id="banner">
 				<h1>Bienvenue sur RaiseMind</h1>
-				<p>Une entreprise qui se veut être là pour repenser, les services web de demain.</p>
+				<p>Une entreprise qui se veut être là pour repenser les services web de demain.</p>
 			</section>
 
 		<!-- One -->
@@ -30,25 +30,25 @@
 							<header>
 								<h3>Notre politique libriste.<br /> Une politique pour vous !</h3>
 							</header>
-							<p>Nottre politique libriste, se veux coller le plus possible au attente d'un web 3.0 ouvert sur le monde...</p>
+							<p>Nottre politique libriste, se veut coller le plus possible aux attentes d'un web 3.0 ouvert sur le monde...</p>
 							<footer>
 								<a href="politique.php" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
 							<header>
-								<h3>Une équipe humaine<br />pour des projet humain</h3>
+								<h3>Une équipe humaine<br />pour des projets humains</h3>
 							</header>
-							<p>RaiseMind se veux être la pour vous, non pour votre argent. Nous serons la de bout en bout pour votre projet !</p>
+							<p>RaiseMind se veut être là pour vous, non pour votre argent. Nous serons là de bout en bout pour votre projet !</p>
 							<footer>
 								<a href="gestion.php" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
 							<header>
-								<h3>Nos service<br /> Des service simple est utile pour vous !</h3>
+								<h3>Nos services<br /> Des services simples et utiles pour vous !</h3>
 							</header>
-							<p>Nous metons en place tout une suite d'outils pour facillit votre activité, et votre communication sur internet !</p>
+							<p>Nous mettons en place toute une suite d'outils pour faciliter votre activité, et votre communication sur internet !</p>
 							<footer>
 								<a href="service.php" class="button special">More</a>
 							</footer>
@@ -60,8 +60,8 @@
 			<section id="three" class="wrapper special">
 				<div class="inner">
 					<header class="align-center">
-						<h2>Nos soutient.</h2>
-						<p>Voici les projet, que nous soutenons avec une bonne dose de dataLove.</p>
+						<h2>Nos soutiens.</h2>
+						<p>Voici les projets que nous soutenons avec une bonne dose de dataLove.</p>
 					</header>
 					<div class="flex flex-2">
 						<article>
@@ -71,7 +71,7 @@
 							<header>
 								<h3>Remove Town</h3>
 							</header>
-							<p>Remove.town est t'un serveur minecraft qui se veux convivial. l'idée est simple. Amusez vous, respectez vous !</p>
+							<p>Remove.town est un serveur minecraft qui se veut convivial. L'idée est simple: Amusez-vous, respectez-vous !</p>
 							<footer>
 								<a href="http://remove.town" class="button special">More</a>
 							</footer>
@@ -83,7 +83,8 @@
 							<header>
 								<h3>lezarius.tech / lezarius.science</h3>
 							</header>
-							<p>Deux site une personnelle l'autre profesionnel autours de l'entitée lezarius. plusieur service tourne autours et plusieur micro site.</p>
+							<p>Deux sites, un personnel et l'autre profesionnel autour de l'entitée lezarius.
+						Plusieurs services tournent autour, ainsi que plusieurs micro-sites.</p>
 							<footer>
 								<a href="http://p.lezarius.tech/" class="button special">More</a>
 							</footer>

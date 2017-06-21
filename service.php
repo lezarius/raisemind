@@ -21,37 +21,37 @@
 			<section id="three" class="wrapper">
 				<div class="inner">
 					<header class="align-center">
-						<h2>Nos service</h2>
-						<p>Voici la liste évolutive de nos service.</p>
+						<h2>Nos services</h2>
+						<p>Voici la liste évolutive de nos services.</p>
 					</header>
           <!-- Table -->
             <h3>Création web</h3>
 
-            <h4>Nos différente offre pour vos site web</h4>
+            <h4>Nos différentes offres pour vos sites web</h4>
             <!-- Table for pricing web servicing -->
             <div class="table-wrapper">
               <table>
                 <thead>
                   <tr>
                     <th>Website</th>
-                    <th>Tout se qui concerne la création de votre site web</th>
+                    <th>Tout ce qui concerne la création de votre site web</th>
                     <th>Prix</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
                     <td>Site vitrine</td>
-                    <td>Un petit site avec 2-3 page et une page contact avec formulaire.</td>
+                    <td>Un petit site avec 2-3 pages et une page contact avec formulaire.</td>
                     <td>240</td>
                   </tr>
                   <tr>
                     <td>Site vitrine & blog</td>
-                    <td>Site avec 2-3 page, une page contact et une partie blog.</td>
+                    <td>Site avec 2-3 pages, une page contact et une partie blog.</td>
                     <td>360</td>
                   </tr>
                   <tr>
                     <td>Blog</td>
-                    <td>Un simple blog et une page contact, pour partagez vos plus beaux billet.</td>
+                    <td>Un simple blog et une page contact, pour partager vos plus beaux billet.</td>
                     <td>120</td>
                   </tr>
                   <tr>
@@ -71,40 +71,40 @@
 <!-- Table for pricing design service -->
 <h3>Design</h3>
 
-<h4>Nos différente offre pour vos design</h4>
+<h4>Nos différentes offres pour vos designs</h4>
             <div class="table-wrapper">
               <table>
                 <thead>
                   <tr>
                     <th>Design</th>
-                    <th>Tout se qui tourne autours de la création graphique pour votre entreprise !</th>
+                    <th>Tout ce qui tourne autour de la création graphique pour votre entreprise !</th>
                     <th>Prix</th>
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
                     <td>Template</td>
-                    <td>Une template bootstrap sur messur pour votre site vitrine</td>
+                    <td>Une template bootstrap sur mesure pour votre site vitrine</td>
                     <td>190</td>
                   </tr>
                   <tr>
                     <td>Logo</td>
-                    <td>Un logo pour vos site web.</td>
+                    <td>Un logo pour vos sites web.</td>
                     <td>90</td>
                   </tr>
                   <tr>
                     <td>Template mail</td>
-                    <td>Nous integrons votre logo et d'autre info importante pour vous dans un design unique pour vos mail !</td>
+                    <td>Nous intégrons votre logo et d'autres informations importantes pour vous dans un design unique pour vos mails !</td>
                     <td>110</td>
                   </tr>
                   <tr>
                     <td>Papeterie</td>
-                    <td>Carte de visite et entête de lettre. (À voir en devis pour l'impression de ses produit)</td>
+                    <td>Carte de visite et entête de lettre. (À voir en devis pour l'impression de ses produits)</td>
                     <td>80</td>
                   </tr>
                   <tr>
                     <td>Flyers</td>
-                    <td> Flyers sur messure bon pour toute vos campagne de pub</td>
+                    <td> Flyers sur mesure bons pour toutes vos campagnes de pub</td>
                     <td>150</td>
                   </tr>
                 </tbody>

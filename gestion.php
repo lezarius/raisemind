@@ -22,16 +22,16 @@
 				<div class="inner">
 					<header class="align-center">
 						<h2>Gestion de projet</h2>
-						<p>Une envie de comprendre le procesus d'échange entre nous et vous ?</p>
+						<p>Une envie de comprendre le processus d'échange entre nous et vous ?</p>
 					</header>
-					<p>Il est simple, nous vous proposon une démo dynamique qui suit nos étape de production de votre création.<br>
+					<p>C'est simple, nous vous proposons une démo dynamique qui suit les étapes de production de votre création.<br>
 					Mais aussi, un échange dynamique, une possibilité de modifier votre création à tout moment via un simple mail.<br><br>
-					Un cahier des charge qui se veux dans notre temps, on parlera ensemble de repsonsive, de design, mais aussi
+					Un cahier des charges qui se veut dans notre temps, on parlera ensemble de repsonsive, de design, mais aussi
 					de communication ou encore d'éthique.<br><br>
-					De nos jours ou les micro entreprise et les site web pousse comme du lière sur l'arbre des internet.<br>
-					Nous vous proposon d'être la fleur parmis tout cela. <br>
-					Avec des méthode de travaille novatrice et une envie de donner les meilleur à chaque création.<br><br>
-					Voila comme notre équipe s'occupe de vos projet avec amour de A à Z.
+					De nos jours les micro-entreprises et les sites web poussent comme du lière sur l'arbre des internets.<br>
+					Nous vous proposons d'être la fleur parmis tout cela. <br>
+					Avec des méthodes de travail novatrices et une envie de donner le meilleur à chaque création.<br><br>
+					Voilà comme notre équipe s'occupe de vos projets avec amour de A à Z.
 
 
 
