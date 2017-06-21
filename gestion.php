@@ -26,12 +26,12 @@
 					</header>
 					<p>C'est simple, nous vous proposons une démo dynamique qui suit les étapes de production de votre création.<br>
 					Mais aussi, un échange dynamique, une possibilité de modifier votre création à tout moment via un simple mail.<br><br>
-					Un cahier des charges qui se veut dans notre temps, on parlera ensemble de repsonsive, de design, mais aussi
+					Un cahier des charges qui se veut dans notre temps, on parlera ensemble de responsive, de design, mais aussi
 					de communication ou encore d'éthique.<br><br>
-					De nos jours les micro-entreprises et les sites web poussent comme du lière sur l'arbre des internets.<br>
-					Nous vous proposons d'être la fleur parmis tout cela. <br>
+					De nos jours les micro-entreprises et les sites web poussent comme du lierre sur l'arbre des internets.<br>
+					Nous vous proposons d'être la fleur parmi tout cela. <br>
 					Avec des méthodes de travail novatrices et une envie de donner le meilleur à chaque création.<br><br>
-					Voilà comme notre équipe s'occupe de vos projets avec amour de A à Z.
+					Voilà comment notre équipe s'occupe de vos projets avec amour de A à Z.
 
 
 
