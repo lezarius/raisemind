@@ -110,6 +110,51 @@
                 </tbody>
                 </table>
             </div>
+						<!-- Table -->
+							<h3>Hosting</h3>
+
+							<h4>Nos différentes offres d'hébergement & autres options</h4>
+							<!-- Table for pricing web servicing -->
+							<div class="table-wrapper">
+								<table>
+									<thead>
+										<tr>
+											<th>Offre</th>
+											<th>hébergement, option.</th>
+											<th>Prix</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Hosting web 1</td>
+											<td>Pour héberger vos sites web à moyen trafic (jusqu'à 3000 visites uniques simultanées.)</td>
+											<td>10</td>
+										</tr>
+										<tr>
+											<td>Hosting web 2</td>
+											<td>Pour héberger vos sites web à plus gros trafic (jusqu'à 6000 visites uniques simultanées.)</td>
+											<td>25</td>
+										</tr>
+										<tr>
+											<td>Hosting web 3</td>
+											<td>Sur devis uniquement nous pourrons discuter de l'hébergement de vos sites à gros trafic.</td>
+											<td>Devis</td>
+										</tr>
+										<tr>
+											<td>Piwik</td>
+											<td> Une alternative auto-héberger de vos statistiques de visites et autre. Les données recoltées ne sont vendues à aucun tiers.</td>
+											<td>10</td>
+										</tr>
+									</tbody>
+									<tfoot>
+										<tr>
+											<td colspan="2"></td>
+											<td>Contactez RaisMind pour un devis</td>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+
 				</div>
 			</section>
 <?php include "footer.php";?>
