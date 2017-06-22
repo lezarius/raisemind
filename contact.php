@@ -77,16 +77,15 @@
                   <form>
                   <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
                   <address>
-                      <strong>Twitter, Inc.</strong><br>
-                      795 Folsom Ave, Suite 600<br>
-                      San Francisco, CA 94107<br>
+                      <strong>RaiseMind</strong><br>
+                      Bordeaux, 33000<br>
                       <abbr title="Phone">
                           P:</abbr>
-                      (123) 456-7890
+                      +337 53 34 54 77
                   </address>
                   <address>
-                      <strong>Full Name</strong><br>
-                      <a href="mailto:#">first.last@example.com</a>
+                      <strong>Ronce Mazanraud</strong><br>
+                      <a href="mailto:pro@raisemind.pw">pro@raisemind.pw</a>
                   </address>
                   </form>
               </div>
