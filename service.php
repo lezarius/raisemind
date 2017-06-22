@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Politique de RaiseMind</title>
+		<title>Les services</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -23,10 +23,7 @@
 					<header class="align-center">
 						<h2>Nos services</h2>
 						<p>Voici la liste évolutive de nos services.</p>
-						<p>Pour s'ouscrire à un service, </p>
-							<ul class="actions fit small">
-								<li><a href="#" class="button fit small">contactez nous</a></li>
-							</ul>
+						<p>Pour s'ouscrire à un service, contatez nous</p>
 					</header>
           <!-- Table -->
             <h3>Création web</h3>

@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Politique de RaiseMind</title>
+		<title>Nous contactez !</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -17,15 +17,13 @@
 				</div>
 			</header>
 
-      <div class="jumbotron jumbotron-sm">
-          <div class="container">
-              <div class="row">
-                  <div class="col-sm-12 col-lg-12">
-                      <h1 class="h1">
-                          Contact us <small>Feel free to contact us</small></h1>
-                  </div>
-              </div>
-          </div>
+      <section id="three" class="wrapper">
+				<div class="inner">
+					<header class="align-center">
+						<h2>Nous contactez</h2>
+						<p>Téléphone ? Mail ? Formulaire ?</p>
+						<p>faite votre choix est contactez nous.</p>
+					</header>
 
       <div class="container">
           <div class="row">
