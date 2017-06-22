@@ -16,6 +16,7 @@
 				<?php include 'nav.php'; ?>
 				</div>
 			</header>
+    <?php include 'scontact.php'; ?>
       <div class="container">
         		<div class="row">
         			<div class="col-md-6 col-md-offset-3">
@@ -62,7 +63,7 @@
       				</form>
       			</div>
       		</div>
-      </div> 
+      </div>
 
 
 <?php include "footer.php";?>
