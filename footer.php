@@ -7,7 +7,7 @@
 								&copy; <a href="http://raisemind.pw">RaiseMind.</a> Design: RaiseMind. Logo: <a href="https://twitter.com/SoniopArt">Soniop</a>.
 							</div>
 							<ul class="icons">
-								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://github.com/lezarius/raisemind" class="icon fa-github"><span class="label">Github</span></a></li>
 							</ul>
 						</div>
 					</div>
