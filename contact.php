@@ -71,6 +71,9 @@
                   </div>
               </div>
               <div class="col-md-4">
+              <img src="images/logo200.png" alt=""></img>
+              </div>
+              <div class="col-md-4">
                   <form>
                   <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
                   <address>
