@@ -34,7 +34,7 @@
                           <div class="col-md-6">
                               <div class="form-group">
                                   <label for="name">
-                                      Name</label>
+                                      Nom</label>
                                   <input type="text" class="form-control" id="name" placeholder="Enter name" required="required" />
                               </div>
                               <div class="form-group">
@@ -47,24 +47,24 @@
                               </div>
                               <div class="form-group">
                                   <label for="subject">
-                                      Subject</label>
+                                      Sujet</label>
                                   <select id="subject" name="subject" class="form-control" required="required">
-                                      <option value="na" selected="">Choose One:</option>
-                                      <option value="service">General Customer Service</option>
-                                      <option value="suggestions">Suggestions</option>
-                                      <option value="product">Product Support</option>
+                                      <option value="na" selected="">En choisire une:</option>
+                                      <option value="service">Service</option>
+                                      <option value="suggestions">Devis</option>
+                                      <option value="product">Autre (datalove, suggestion, etc)</option>
                                   </select>
                               </div>
                           </div>
                           <div class="col-md-6">
                               <div class="form-group">
                                   <label for="name">
-                                      Message</label>
+                                      C'est un monde avec des licorne, Oh heureusement que se texte doit être remplacée.</label>
                                   <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
                                       placeholder="Message"></textarea>
                               </div>
                               <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
-                                  Send Message</button>
+                                  envoyée le méssage</button>
                           </div>
                       </div>
                       </form>
@@ -75,7 +75,6 @@
               </div>
               <div class="col-md-4">
                   <form>
-                  <legend><span class="glyphicon glyphicon-globe"></span> Our office</legend>
                   <address>
                       <strong>RaiseMind</strong><br>
                       Bordeaux, 33000<br>
