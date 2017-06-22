@@ -23,11 +23,10 @@
 					<header class="align-center">
 						<h2>Nos services</h2>
 						<p>Voici la liste évolutive de nos services.</p>
-						<p>Pour s'ouscrire à un service, 
+						<p>Pour s'ouscrire à un service, </p>
 							<ul class="actions fit small">
 								<li><a href="#" class="button fit small">contactez nous</a></li>
 							</ul>
-						</p>
 					</header>
           <!-- Table -->
             <h3>Création web</h3>
