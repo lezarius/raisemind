@@ -59,9 +59,9 @@
                           <div class="col-md-6">
                               <div class="form-group">
                                   <label for="name">
-                                      C'est un monde avec des licorne, Oh heureusement que se texte doit être remplacée.</label>
+                                      Méssage</label>
                                   <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
-                                      placeholder="Message"></textarea>
+                                      placeholder="C'est un monde avec des licorne, Oh heureusement que se texte doit être remplacée."></textarea>
                               </div>
                               <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
                                   envoyée le méssage</button>
