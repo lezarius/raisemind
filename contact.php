@@ -20,9 +20,9 @@
       <section id="three" class="wrapper">
 				<div class="inner">
 					<header class="align-center">
-						<h2>Nous contactez</h2>
+						<h2>Nous contacter</h2>
 						<p>Téléphone ? Mail ? Formulaire ?</p>
-						<p>faite votre choix est contactez nous.</p>
+						<p>Faites votre choix et contactez-nous.</p>
 					</header>
 
       <div class="container">
@@ -49,7 +49,7 @@
                                   <label for="subject">
                                       Sujet</label>
                                   <select id="subject" name="subject" class="form-control" required="required">
-                                      <option value="na" selected="">En choisire une:</option>
+                                      <option value="na" selected="">En choisir un:</option>
                                       <option value="service">Service</option>
                                       <option value="suggestions">Devis</option>
                                       <option value="product">Autre (datalove, suggestion, etc)</option>
@@ -59,12 +59,12 @@
                           <div class="col-md-6">
                               <div class="form-group">
                                   <label for="name">
-                                      Méssage</label>
+                                      Message</label>
                                   <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
-                                      placeholder="C'est un monde avec des licorne, Oh heureusement que se texte doit être remplacée."></textarea>
+                                      placeholder="C'est un monde avec des licornes. Oh, heureusement que ce texte va être remplacé."></textarea>
                               </div>
                               <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
-                                  envoyée le méssage</button>
+                                  Envoyer le message</button>
                           </div>
                       </div>
                       </form>
