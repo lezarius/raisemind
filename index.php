@@ -30,18 +30,18 @@
 							<header>
 								<h3>Notre politique libriste.<br /> Une politique pour vous !</h3>
 							</header>
-							<p>Nottre politique libriste, se veut coller le plus possible aux attentes d'un web ouvert sur le monde...</p>
+							<p>notre politique d'utilisation de logiciel libre permet de répondre aux attentes d'un Internet ouvert sur le monde</p>
 							<footer>
-								<a href="politique.php" class="button special">More</a>
+								<a href="politique.php" class="button special">plus</a>
 							</footer>
 						</article>
 						<article>
 							<header>
 								<h3>Une équipe humaine<br />pour des projets humains</h3>
 							</header>
-							<p>RaiseMind se veut être là pour vous, non pour votre argent. Nous serons là de bout en bout pour votre projet !</p>
+							<p>RaiseMind est là pour vous, non pour votre argent. Nous serons là de bout en bout pour votre projet !</p>
 							<footer>
-								<a href="gestion.php" class="button special">More</a>
+								<a href="gestion.php" class="button special">plus</a>
 							</footer>
 						</article>
 						<article>
@@ -50,7 +50,7 @@
 							</header>
 							<p>Nous mettons en place toute une suite d'outils pour faciliter votre activité, et votre communication sur internet !</p>
 							<footer>
-								<a href="service.php" class="button special">More</a>
+								<a href="service.php" class="button special">plus</a>
 							</footer>
 						</article>
 					</div>
