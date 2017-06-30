@@ -30,7 +30,7 @@
 							<header>
 								<h3>Notre politique libriste.<br /> Une politique pour vous !</h3>
 							</header>
-							<p>Nottre politique libriste, se veut coller le plus possible aux attentes d'un web 3.0 ouvert sur le monde...</p>
+							<p>Nottre politique libriste, se veut coller le plus possible aux attentes d'un web ouvert sur le monde...</p>
 							<footer>
 								<a href="politique.php" class="button special">More</a>
 							</footer>

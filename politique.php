@@ -27,8 +27,8 @@
 					<p>
 Notre politique se veut simple.<br><br>
 Des projets, des services et des applications à taille et prix humains.<br>
-Au revoir les projets de dev à plusieurs milliers d'euros.<br>
-Ici vous ne payez pas de licence excessive.<br>
+Au revoir les projets de développement à plusieurs milliers d'euros.<br>
+Ici vous ne payez pas de licence abusive.<br>
 Uniquement les compétences utilisées sur le temps de travail.<br><br>
 Ici vos données sont en lieu sûr.<br>
 Chiffrer est notre mot d'ordre. La sécurité n'est pas qu'une chose obscure comme nous laissent penser certains de nos politiques.

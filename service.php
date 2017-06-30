@@ -36,7 +36,7 @@
                   <tr>
                     <th>Website</th>
                     <th>Tout ce qui concerne la création de votre site web</th>
-                    <th>Prix</th>
+                    <th>Prix en euro</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -79,7 +79,7 @@
                   <tr>
                     <th>Design</th>
                     <th>Tout ce qui tourne autour de la création graphique pour votre entreprise !</th>
-                    <th>Prix</th>
+                    <th>Prix en euro</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -122,7 +122,7 @@
 										<tr>
 											<th>Offre</th>
 											<th>hébergement, option.</th>
-											<th>Prix</th>
+											<th>Prix en euro</th>
 										</tr>
 									</thead>
 									<tbody>
