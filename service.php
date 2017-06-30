@@ -85,18 +85,18 @@
                 <tbody>
                   <tr>
                     <td>Template</td>
-                    <td>Une template bootstrap sur mesure pour votre site vitrine</td>
+                    <td>Une template bootstrap sur mesure pour votre site vitrine (design web)</td>
                     <td>190</td>
                   </tr>
                   <tr>
                     <td>Logo</td>
                     <td>Un logo pour vos sites web.</td>
-                    <td>90</td>
+                    <td>110</td>
                   </tr>
                   <tr>
                     <td>Template mail</td>
                     <td>Nous intégrons votre logo et d'autres informations importantes pour vous dans un design unique pour vos mails !</td>
-                    <td>110</td>
+                    <td>80</td>
                   </tr>
                   <tr>
                     <td>Papeterie</td>
