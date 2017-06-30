@@ -65,9 +65,9 @@
 					</header>
 					<div class="flex flex-2">
 						<article>
-							<div class="image fit">
+							<!-- <div class="image fit">
 								<img src="images/pic01.jpg" alt="Pic 01" />
-							</div>
+							</div> -->
 							<header>
 								<h3>Remove Town</h3>
 							</header>
@@ -77,9 +77,9 @@
 							</footer>
 						</article>
 						<article>
-							<div class="image fit">
-								<img src="images/pic02.jpg" alt="Pic 02" />
-							</div>
+							<!-- <div class="image fit">
+								<img src="images/pic01.jpg" alt="Pic 01" />
+							</div> -->
 							<header>
 								<h3>lezarius.tech / lezarius.science</h3>
 							</header>
