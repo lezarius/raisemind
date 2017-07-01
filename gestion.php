@@ -26,7 +26,7 @@
 					</header>
 					<p>C'est simple, nous vous proposons une démo dynamique qui suit les étapes de production de votre création.<br>
 					Mais aussi, un échange dynamique, une possibilité de modifier votre création à tout moment via un simple mail.<br><br>
-					Un cahier des charges qui se veut dans les normes actuelle, on parlera ensemble de responsive, de design, mais aussi
+					Un cahier des charges dans les normes actuelles, on parlera ensemble de responsive, de design, mais aussi
 					de communication.<br><br>
 					De nos jours les micro-entreprises et les sites web poussent comme du lierre sur l'arbre des internets.<br>
 					Nous vous proposons d'être la fleur parmi tout cela. <br>
