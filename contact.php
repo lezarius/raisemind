@@ -21,7 +21,7 @@
 				<div class="inner">
 					<header class="align-center">
 						<h2>Nous contacter</h2>
-						<p>Téléphone ? Mail ? Formulaire ?</p>
+						<p>Téléphone ? Mail ?</p>
 						<p>Faites votre choix et contactez-nous.</p>
 					</header>
 
