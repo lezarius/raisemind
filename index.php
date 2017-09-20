@@ -11,7 +11,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="http://dev.infra-rm.xyz/" class="logo"><img src="images/logo100.png" alt=""></img></a>
+					<a href="index.php" class="logo"><img src="images/logo100.png" alt=""></img></a>
 				<?php include 'nav.php'; ?>
 				</div>
 			</header>
